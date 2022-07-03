@@ -11,3 +11,13 @@ Une cellule possède huit voisins. À chaque itération, l'état d’une cellule
 Cette simulation est impréssionnante, car elle reproduit des paternes que l'on retrouve dans le vivant lui-même.
 
 Merci Conway, pour cette découverte :)
+
+## Lancement
+
+Double cliquer sur le programme lance une fenêtre Tkinter. Vous pouvez colorer les cases que vous voulez, puis lancer la simulation. Ainsi, vous pouvez partir d'où vous souhaitez. A tout moment, vous pouvez arrêter. 
+
+
+Vous pouvez sinon lancer directement un canon planeur. Découvert par Bill Gosper, c'est un motif fini dont la partie principale se répète périodiquement, comme un oscillateur, et qui émet des vaisseaux à intervalles réguliers.
+
+Vous pouvez aussi choisir le temps entre les étapes de cette forme particulière. 
+
